@@ -4,7 +4,7 @@
 
 该项目的 npm 包地址为：https://www.npmjs.com/package/@amap/amap-react
 
-原项目的 github 地址为：github.com/LiuJi-Jim/amap-react
+原项目的 github 地址为：https://github.com/LiuJi-Jim/amap-react
 
 原使用文档项目的 gitee 地址为： https://gitee.com/jimnox/amap-react
 
